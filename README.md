@@ -18,8 +18,6 @@ I am an enthusiastic IT student !
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂Random Dev Meme
-<img src="[https://random-memer.herokuapp.com/](https://t3.ftcdn.net/jpg/02/25/10/36/360_F_225103684_9opc6FzD29B5K2YMXlOTR1yuSQQemA4m.jpg)" width="512px"/>
+### 😂 
+<img src="https://t3.ftcdn.net/jpg/02/25/10/36/360_F_225103684_9opc6FzD29B5K2YMXlOTR1yuSQQemA4m.jpg" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Mal3un&icon=2&color=0)](https://visitcount.itsvg.in)
